@@ -1,5 +1,5 @@
 <table>
-  <tr align="center">
+  <tr align="center" padding="0">
     <td>
       <a title="Portfolio" href="https://cmcodes1.github.io/">
         <img alt="portfolio of cmcodes" src="https://avatars2.githubusercontent.com/u/34341671?s=460&u=73e18d14ad731e271dcb5a16e215cc7cf626721b&v=4" width="60" height="60" />
