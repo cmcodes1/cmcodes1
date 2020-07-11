@@ -31,7 +31,10 @@
       </a>
     </td>
     <td>
-      <img src="https://github.com/cmcodes1/cmcodes1/blob/master/cmcodes.gif" />
+  <!--<img src="https://github.com/cmcodes1/cmcodes1/blob/master/cmcodes.gif" /> -->
+      <video>
+        <source src="cmcodes.mp4" type="video/mp4">
+      </video>
     </td>
   </tr>
 </table>
