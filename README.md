@@ -1,7 +1,6 @@
-
-<table style="borderColor: #fff">
-  <tr align="center" border="0px">
-    <td border="0px">
+<table>
+  <tr align="center">
+    <td>
       <a title="Portfolio" href="https://cmcodes1.github.io/">
         <img alt="portfolio of cmcodes" src="https://avatars2.githubusercontent.com/u/34341671?s=460&u=73e18d14ad731e271dcb5a16e215cc7cf626721b&v=4" width="60" height="60" />
       </a>
@@ -15,7 +14,7 @@
         <img alt="Email of cmcodes" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="60" height="60" />
       </a>
     </td>
-    <td border="0px">
+    <td>
       <a title="Twitter" href="https://twitter.com/cmcodes1">
         <img alt="Tweets of cmcodes" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-512.png" width="60" height="60" />
       </a>
