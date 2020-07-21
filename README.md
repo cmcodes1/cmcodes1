@@ -1,7 +1,9 @@
 <p align="center">
 <table>
   <tr>
-    <img src="https://github.com/cmcodes1/cmcodes1/blob/master/cmcodes.gif" width="430px" height="140px" style="pointer-events:none;" />
+    <a style="pointer-events:none;">
+      <img src="https://github.com/cmcodes1/cmcodes1/blob/master/cmcodes.gif" width="430px" height="150px" />
+    </a>
   </tr>
   <tr>
     <a title="Portfolio" href="https://cmcodes1.github.io/">
