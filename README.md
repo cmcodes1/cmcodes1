@@ -1,8 +1,9 @@
+<p align="center">
 <table>
-  <tr align="center">
+  <tr style="pointer-events:none;">
     <img src="https://github.com/cmcodes1/cmcodes1/blob/master/cmcodes.gif" width="430px" height="140px" />
   </tr>
-  <tr align="center">
+  <tr>
     <a title="Portfolio" href="https://cmcodes1.github.io/">
       <img alt="portfolio of cmcodes" src="https://avatars2.githubusercontent.com/u/34341671?s=450&u=73e18d14ad731e271dcb5a16e215cc7cf626721b&v=4" width="50" height="50" />
     </a>
@@ -31,3 +32,4 @@
     </a>
   </tr>
 </table>
+</p>
