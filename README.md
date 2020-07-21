@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <img src="https://github.com/cmcodes1/cmcodes1/blob/master/cmcodes.gif" width="50%" height="50%" />
+    <img src="https://github.com/cmcodes1/cmcodes1/blob/master/cmcodes.gif" width="430px" height="150px" />
   </tr>
   <tr>
     <a title="Portfolio" href="https://cmcodes1.github.io/">
