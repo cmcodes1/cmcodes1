@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/cmcodes1/cmcodes1/blob/master/cmcodes.gif" width="430px" height="150px" />
+  <img src="https://github.com/cmcodes1/cmcodes1/blob/master/cmcodes.gif" width="430px" height="150px" />
   <br/>
   <br/>
   <a title="Portfolio" href="https://cmcodes1.github.io/">
@@ -28,8 +28,8 @@
   <a title="LinkedIn" href="https://linkedin.com/in/cmcodes">
     <img alt="LinkedIn of cmcodes" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50" height="50" />
   </a>
-</p>
-<br/>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=cmcodes1&count_private=true&show_icons=true">
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cmcodes1&count_private=true&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmcodes1&layout=compact">
 </p>
