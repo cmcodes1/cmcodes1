@@ -29,3 +29,7 @@
     <img alt="LinkedIn of cmcodes" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50" height="50" />
   </a>
 </p>
+<br/>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=cmcodes1">
+</p>
