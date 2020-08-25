@@ -31,5 +31,5 @@
   <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=cmcodes1&count_private=true&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmcodes1&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmcodes1&layout=compact" height="195px">
 </p>
