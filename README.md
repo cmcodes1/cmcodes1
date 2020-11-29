@@ -3,7 +3,7 @@
   <br/>
   <br/>
   <a title="Portfolio" href="https://cmcodes1.github.io/">
-    <img src="https://avatars2.githubusercontent.com/u/34341671?s=450&u=73e18d14ad731e271dcb5a16e215cc7cf626721b&v=4" width="50" height="50" />
+    <img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-256.png" width="50" height="50" />
   </a>
   <a title="DEV.to" href="https://dev.to/cmcodes">
     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
