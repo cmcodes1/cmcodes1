@@ -2,7 +2,7 @@
   <img src="https://github.com/cmcodes1/cmcodes1/blob/master/cmcodes.gif" width="430px" height="150px" alt="Hi! I am cmcodes 😊 JavaScript/ React (Native) Developer ⚛" />
   <br/>
   <br/>
-  <a title="Portfolio" href="https://cmcodes1.github.io/">
+  <a title="Portfolio" href="https://cmcodes.in/">
     <img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-256.png" width="50" height="50" />
   </a>
   <a title="DEV.to" href="https://dev.to/cmcodes">
@@ -11,7 +11,7 @@
   <a title="Instagram" href="https://instagram.com/cmcodes">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Instagram-512.png" width="50" height="50" />
   </a>
-  <a title="Email" href="mailto:cmcodes10@gmail.com">
+  <a title="Email" href="mailto:cm@cmcodes.in">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="50" height="50" />
   </a>
   <a title="Stackoverflow" href="https://stackoverflow.com/users/8161436/cmcodes">
