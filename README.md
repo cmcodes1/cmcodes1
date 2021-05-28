@@ -1,7 +1,19 @@
 <p align="center">
-<!--   <img src="https://github.com/cmcodes1/cmcodes1/blob/master/cmcodes.gif" width="430px" height="150px" alt="Hi! I am cmcodes 😊 JavaScript/ React (Native) Developer ⚛" />
+<!--
+  <img src="https://github.com/cmcodes1/cmcodes1/blob/master/cmcodes.gif" width="430px" height="150px" alt="Hi! I am cmcodes 😊 JavaScript/ React (Native) Developer ⚛" />
   <br/>
-  <br/> -->
+  <br/>
+-->
+  <text><b>currently working with</b></text>
+  <br/>
+  <text>React | React Native | JavaScript | TypeScript | SCSS | Firebase</text>
+  <br/><br/>
+  <text><b>familiar with</b></text>
+  <br/>
+  <text>C | C++ | C# | Java | Python | MySQL | VB | .NET | HTML | CSS | Node</text>
+  <br/><br/>
+  <text><b>connect with me</b></text>
+  <br/>
   <a title="Google me" href="https://www.google.com/search?q=cmcodes&rlz=1C1CHZN_enIN928IN928&oq=cmcodes&aqs=chrome.0.69i59j35i39j0i10i30j69i60l3j69i65.2924j0j4&sourceid=chrome&ie=UTF-8">
         <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Google-512.png" width="50" height="50" />
   </a>
