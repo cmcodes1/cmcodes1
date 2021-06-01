@@ -6,11 +6,11 @@
 -->
   <text><b>currently working with</b></text>
   <br/>
-  <text>React | React Native | JavaScript | TypeScript | Sass | Firebase</text>
+  <text>React | React Native | JavaScript | TypeScript | Sass | Firebase | MySQL</text>
   <br/><br/>
   <text><b>familiar with</b></text>
   <br/>
-  <text>C | C++ | C# | Java | Python | MySQL | VB | .NET | HTML | CSS | Node</text>
+  <text>C | C++ | C# | Java | Python | VB | .NET | HTML | CSS | Node</text>
   <br/><br/>
   <text><b>connect with me</b></text>
   <br/>
