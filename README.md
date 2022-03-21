@@ -6,7 +6,7 @@
 -->
   <text><b>currently working with</b></text>
   <br/>
-  <text>React | React Native | JavaScript | TypeScript | Sass | Firebase | MySQL</text>
+  <text>React | React Native | JavaScript | TypeScript | Sass | Firebase | MySQL | GCP | Postman</text>
   <br/><br/>
   <text><b>familiar with</b></text>
   <br/>
