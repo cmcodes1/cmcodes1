@@ -1,9 +1,4 @@
 <p align="center">
-<!--
-  <img src="https://github.com/cmcodes1/cmcodes1/blob/master/cmcodes.gif" width="430px" height="150px" alt="Hi! I am cmcodes 😊 JavaScript/ React (Native) Developer ⚛" />
-  <br/>
-  <br/>
--->
   <text><b>currently working with</b></text>
   <br/>
   <text>React Native | TypeScript | JavaScript | GraphQL</text>
