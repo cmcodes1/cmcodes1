@@ -38,8 +38,8 @@
   </a>
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmcodes1&layout=compact&theme=radical" height="200px" alt="top languages">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmcodes1&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="200px" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmcodes1&layout=compact&theme=radical" height="175px" alt="top languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmcodes1&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175px" alt="streak" />
   <br/>
   <br/>
   
