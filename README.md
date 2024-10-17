@@ -1,11 +1,11 @@
 <p align="center">
   <text><b>currently working with</b></text>
   <br/>
-  <text>React Native | TypeScript | JavaScript | GraphQL</text>
+  <text>React Native | TypeScript | JavaScript | Redux</text>
   <br/><br/>
   <text><b>familiar with</b></text>
   <br/>
-  <text>React | Sass | Firebase | MySQL | GCP | Insomnia | Postman</text>
+  <text>React | GraphQL| Sass | Firebase | MySQL | GCP | Insomnia | Postman</text>
   <br/><br/>
   <text><b>connect with me</b></text>
   <br/>
