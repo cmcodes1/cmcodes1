@@ -12,7 +12,7 @@
   <a title="View my profile on LinkedIn" href="https://linkedin.com/in/cmcodes">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50" height="50" />
   </a>
-  <a title="Google me" href="https://www.google.com/search?q=cmcodes&rlz=1C1CHZN_enIN928IN928&oq=cmcodes&aqs=chrome.0.69i59j35i39j0i10i30j69i60l3j69i65.2924j0j4&sourceid=chrome&ie=UTF-8">
+  <a title="Google me" href="https://www.google.com/search?q=cmcodes">
         <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Google-512.png" width="50" height="50" />
   </a>
   <a title="View my website" href="https://www.cmcodes.ai/">
