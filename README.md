@@ -5,7 +5,7 @@
   <br><br>
   <text><b>familiar with</b></text>
   <br>
-  <text>React | GraphQL| Sass | Firebase | MySQL | GCP | Insomnia | Postman</text>
+  <text>React | Kotlin | Swift | GraphQL | Firebase | MySQL | GCP | Postman</text>
   <br><br>
   <text><b>connect with me</b></text>
   <br>
@@ -34,7 +34,8 @@
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-512.png" width="50" height="50" />
   </a>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmcodes1&layout=compact&theme=radical" height="175px" alt="top languages">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmcodes1&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175px" alt="streak" />
-  <br><br>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=cmcodes1&show_icons=true&theme=tokyonight" height="200px" alt="stats" />
+  <br>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cmcodes1&theme=tokyonight" height="195px" alt="top languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=cmcodes1&theme=tokyonight" alt="streak" />
 </p>
