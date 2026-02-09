@@ -34,8 +34,7 @@
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-512.png" width="50" height="50" />
   </a>
   <br><br>
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=cmcodes1&show_icons=true&theme=tokyonight" height="200px" alt="stats" />
-  <br>
+  <!-- <img src="https://github-readme-stats-fast.vercel.app/api?username=cmcodes1&show_icons=true&theme=tokyonight" height="200px" alt="stats" /> -->
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cmcodes1&theme=tokyonight" height="195px" alt="top languages" />
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=cmcodes1&theme=tokyonight" alt="streak" />
 </p>
